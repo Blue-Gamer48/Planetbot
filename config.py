@@ -1,7 +1,7 @@
 import discord
 INVITE_LINK = "https://discord.com/oauth2/authorize?client_id=923162114187747328&permissions=8&scope=bot"
 WEBSITE_LINK = "https://saturnbot.de/"
-DISCORD_TOKEN = "MTIwMDIwMTgyNTMzMzI4MDgzOA.G5GlTM.qYiLBlfTtB0F1dmhXmiXC_5gI2WBYHa_MQzgc8"
+DISCORD_TOKEN = "TOKEN"
 ERROR_CHANNEL = 938383256070549524
 PREFIX = "s."
 VERSION = "0.0.1"
