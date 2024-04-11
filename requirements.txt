@@ -6,3 +6,4 @@ aiosignal
 requests
 py-cord
 speedtest-cli
+psutil
